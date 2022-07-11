@@ -1,0 +1,68 @@
+/* CSS Document */
+.header{
+	padding: 16px 0;
+}
+.logo a{
+	font-size: 36px;
+	text-decoration: none;
+	color: #1f1f1f;
+}
+.nav ul{
+	list-style: none
+}
+.nav li{
+	margin: 0 16px;
+}
+.nav li a{
+	text-decoration: none;
+	color: #1f1f1f;
+}
+.nav li a:hover{
+	opacity: 0.8
+}
+/*Header*/
+.banner{
+	background: url("../img/unsplash_EZyot4kBaLg.png");
+	background-position: bottom;
+	padding: 160px 0;
+	color: white
+}
+.banner h1{
+	font-weight: 400;
+	letter-spacing: 2px;
+	word-spacing: 10px;
+}
+.banner p{
+	margin: 8px 0 40px;
+}
+.btn{
+	background: #3C74CB;
+	color: white;
+	text-decoration: none;
+	padding: 8px 32px;
+}
+.btn:hover{
+	opacity: .8;
+}
+/*banner*/
+.service{
+	padding: 80px;
+}
+.service h1{
+	margin-bottom: 40px;
+}
+.feature{
+	overflow: hidden;
+	height: 280px;
+}
+.content{
+	padding: 32px 0;
+}
+.content p{
+	margin: 16px 0;
+}
+.icon a{
+	margin-left: 8px;
+	color: #1f1f1f;
+	font-size: 24px;
+}
